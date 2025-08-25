@@ -49,5 +49,6 @@
 💻 [**GitHub**](https://github.com/Yuvarajd05)  
 
 ---
+![](https://komarev.com/ghpvc/?username=your-github-Yuvarajd05&style=flat-square)
 
 ✨ *Thanks for visiting my profile! I’m always open to collaborations, projects, and learning opportunities.* 🚀
