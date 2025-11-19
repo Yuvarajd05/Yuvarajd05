@@ -4,12 +4,82 @@
 
 ---
 
-## 🧰 Tech Stack  
-- **Languages:** Java, C, HTML, CSS  
-- **Databases:** MySQL  
-- **Frameworks & Tools:** Flask (Python), React, Figma, Wireframing, Prototyping  
-- **Developer Tools:** VS Code, IntelliJ, Eclipse, GitHub  
-- **Other Skills:** Videography, Video Editing (Adobe Premiere Pro, CapCut)  
+<h2 align="center">🛠 Languages and Tools:</h2>
+<p align="center">
+
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <img width="15" />
+
+  <!-- CSS3 -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a>
+  <img width="15" />
+
+  <!-- UI/UX (Figma icon as representation) -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="uiux" width="45" height="45"/>
+  </a>
+  <img width="15" />
+
+  <!-- Manual Testing (Selenium icon as nearest testing tool icon) -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="manual testing" width="45" height="45"/>
+  </a>
+  <img width="15" />
+
+  <!-- Design (Adobe icon as closest representation) -->
+  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="design" width="45" height="45"/>
+  </a>
+  <img width="15" />
+
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+  <img width="15" />
+
+  <!-- AWS Cloud -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="55" height="55"/>
+  </a>
+  <img width="15" />
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <img width="15" />
+
+  <!-- Figma (for UI/UX & design) -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+  </a>
+  <img width="15" />
+
+  <!-- Media / Video Editing (Premiere Pro icon) -->
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="video editing" width="50" height="50"/>
+  </a>
+  <img width="15" />
+
+  <!-- Video Shooting (Camera icon) -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/camera.png" alt="video shooting" width="45" height="45"/>
+  </a>
+  <img width="15" />
+
+  <!-- Bikes Enthusiast (Motorcycle icon) -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/motorcycle.png" alt="bikes" width="45" height="45"/>
+  </a>
+
+</p>
+
 
 ---
 
