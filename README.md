@@ -7,9 +7,6 @@
 <h2 align="center">🛠 Languages and Tools:</h2>
 <p align="center">
 
-<h2 align="center">🛠 Languages and Tools:</h2>
-<p align="center">
-
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
 
