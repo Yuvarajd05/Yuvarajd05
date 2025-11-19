@@ -7,70 +7,45 @@
 <h2 align="center">🛠 Languages and Tools:</h2>
 <p align="center">
 
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <img width="15" />
+<h2 align="center">🛠 Languages and Tools:</h2>
+<p align="center">
 
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <img width="15" />
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
 
-  <!-- UI/UX (Figma icon as representation) -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="uiux" width="45" height="45"/>
-  </a>
-  <img width="15" />
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
 
-  <!-- Design (Adobe icon as closest representation) -->
-  <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="design" width="45" height="45"/>
-  </a>
-  <img width="15" />
+  <!-- Figma -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" />
+
+  <!-- Photoshop (for design) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50" />
 
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
 
-  <!-- AWS Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="55" height="55"/>
-  </a>
-  <img width="15" />
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
 
-  <!-- Figma (for UI/UX & design) -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-  </a>
-  <img width="15" />
+  <!-- Postman -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" />
 
-  <!-- Media / Video Editing (Premiere Pro icon) -->
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="video editing" width="50" height="50"/>
-  </a>
-  <img width="15" />
+  <!-- Premiere Pro -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="50" />
 
-  <!-- Video Shooting (Camera icon) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/camera.png" alt="video shooting" width="45" height="45"/>
-  </a>
-  <img width="15" />
+  <!-- Camera (matching Devicon style, white & simple) -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/camera.png" width="50" />
 
-  <!-- Bikes Enthusiast (Motorcycle icon) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/motorcycle.png" alt="bikes" width="45" height="45"/>
-  </a>
+  <!-- Motorcycle (matching Devicon style, white & clean) -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/motorcycle.png" width="50" />
+
+</p>
+
+
 
 </p>
 
