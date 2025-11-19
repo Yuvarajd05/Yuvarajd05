@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuvaraj Aralithaya D  
 
-🚀 **Final Year Computer Science & Design Student** | 👨‍💻 **Designer** | 🧠 **Tech Enthusiast** | 🎥 **Media Creator**  
+🚀 Final Year Computer Science & Design Student | 👨‍💻 Designer | 🧠 Tech Enthusiast | ☁️ AWS Cloud | 🎥 Media Creator 
 
 ---
 
