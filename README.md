@@ -10,38 +10,43 @@
 <h2 align="center">🛠 Languages and Tools:</h2>
 <p align="center">
 
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+ <h2 align="center">🛠 Languages and Tools:</h2>
+<p align="center">
 
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />&nbsp;&nbsp;
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />&nbsp;&nbsp;
 
   <!-- Figma -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" />&nbsp;&nbsp;
 
-  <!-- Photoshop (for design) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50" />
+  <!-- Photoshop -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50" />&nbsp;&nbsp;
 
   <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />&nbsp;&nbsp;
 
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+  <!-- AWS (Guaranteed working icon) -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55" />&nbsp;&nbsp;
 
   <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" />&nbsp;&nbsp;
 
   <!-- Postman -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" />&nbsp;&nbsp;
 
   <!-- Premiere Pro -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="55" />&nbsp;&nbsp;
 
-  <!-- Camera (matching Devicon style, white & simple) -->
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/camera.png" width="50" />
+  <!-- Camera -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/camera.png" width="50" />&nbsp;&nbsp;
 
-  <!-- Motorcycle (matching Devicon style, white & clean) -->
+  <!-- Motorcycle -->
   <img src="https://img.icons8.com/ios-filled/50/ffffff/motorcycle.png" width="50" />
+
+</p>
 
 </p>
 
