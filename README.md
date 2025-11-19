@@ -25,12 +25,6 @@
   </a>
   <img width="15" />
 
-  <!-- Manual Testing (Selenium icon as nearest testing tool icon) -->
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="manual testing" width="45" height="45"/>
-  </a>
-  <img width="15" />
-
   <!-- Design (Adobe icon as closest representation) -->
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="design" width="45" height="45"/>
